@@ -20,9 +20,5 @@
       "description": "This gets generated",
       "generator": "secret"
     }
-  },
-  "addons": [
-    "mailgun",
-    "memcachier"
-  ]
+  }
 }
