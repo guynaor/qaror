@@ -16,7 +16,7 @@ Because it`s:
 
 # Install on Heroku (heroku.com)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mateuszdw/qaror)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/guynaor/qaror)
 
 ### Install manually on Heroku
 
