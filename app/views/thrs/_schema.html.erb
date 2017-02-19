@@ -89,7 +89,7 @@
     <% end %>
   </div>  
   <div class="answers">
-    <% if @ans.count > 0 %>
+    <% if @ans.count > 0  || @ans.count <= 0 %>
       <div class="title">
         <h2 class="left"><%= @ans.count %> <%= t("activerecord.models.ans") %></h2>
         <div class="right">
